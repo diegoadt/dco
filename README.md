@@ -1,5 +1,12 @@
 # It's a simple alias with autocompletion for docker-compose command.
 
+## COMMAND:
+```
+$ dco ...
+$ dco up
+$ dco build
+```
+
 ## SETUP
 
 ### Linux:
